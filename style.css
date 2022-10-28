@@ -1,0 +1,26 @@
+body{
+margin:30px;
+}
+.content{
+
+	margin:30px;
+	font-face:Arial;
+
+
+}
+.content-menu{
+margin-top:30px;
+font-family:
+Courier;
+font-size:11px;
+float:left;
+width:300px;
+}
+
+.content-content{
+margin-top:30px;
+font-family:Arial;
+font-size:14px;
+float:left;
+}
+
